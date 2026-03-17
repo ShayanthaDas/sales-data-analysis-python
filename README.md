@@ -79,3 +79,16 @@ Focus marketing efforts on top-performing cities
 Run targeted promotions during peak purchasing hours
 
 Bundle frequently purchased products to increase average order value
+📁 Project Structure
+sales-data-analysis-python/
+│── data/
+│── notebook/
+│── visuals/
+│── README.md
+🚀 Future Improvements
+
+Add sales forecasting using machine learning
+
+Develop interactive dashboards using Power BI or Tableau
+
+Perform customer segmentation analysis
